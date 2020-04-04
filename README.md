@@ -8,6 +8,7 @@ Here are some online ebooks and papers.
   - [NoSQL](#nosql)
 - [Papers](#papers)
   - [Algorithm](#algorithm)
+- [Slides](#slides)
 
 ### NoSQL
 * [Redis in Action](https://github.com/henrytien/HenryBooks/blob/master/ebooks/Redis%20in%20Action.pdf)  
@@ -17,6 +18,10 @@ Here are some online ebooks and papers.
 ## Papers
 
 ### Algorithm
-* [skiplists](https://github.com/henrytien/ebooks-papers/blob/master/papers/skiplists.pdf) 
+* [skiplists](https://github.com/henrytien/ebooks-papers/blob/master/papers/skiplists.pdf)   
   Skip lists are a data structure that can be used in place of balanced trees. Skip lists use probabilistic balancing rather than strictly enforced balancing and as a result the algorithms for insertion and deletion in skip lists are much simpler and significantly faster than equivalent algorithms for balanced trees.
 
+## Slides
+* [redis](./slides/mar07-redis.pdf)  
+  History, Users, Logical Data Model, Atomic Operators, Transactions, Programming Language APIs, System Architecture, Physical Data Structures, Data Persistence,
+  Replication, Consistency, Availability, Benchmarks.  
